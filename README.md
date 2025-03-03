@@ -140,7 +140,7 @@ API_TIMEOUT=30000
 📝 LICENSE
 ---------
 MIT License
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 MedusaSH
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files.

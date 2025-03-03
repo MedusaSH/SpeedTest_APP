@@ -18,19 +18,6 @@ Backend:
 - Express.js
 - RESTful API architecture
 
-📁 PROJECT STRUCTURE
-------------------
-/speedtest-pro
-  ├── /src
-  │   ├── /components
-  │   │   └── SpeedGauge.js
-  │   ├── App.js
-  │   ├── App.css
-  │   └── index.js
-  ├── /server
-  │   └── server.js
-  └── README.md
-
 🛠️ SETUP INSTRUCTIONS
 -------------------
 1. Clone Repository:
